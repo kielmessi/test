@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gray-900 text-white">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm">
         <h1 className="text-4xl font-bold mb-4">
-          Enjoy football in <span className="text-yellow-300">the best leagues</span>
+          Enjoy football in <span className="text-yellow-300">the Premier League</span>
         </h1>
         
         <div className="flex justify-between items-center mb-8">
